@@ -1,10 +1,10 @@
 
 <a href="https://github.com/brunodavi/">
-<img width="500" src="https://github-readme-stats.vercel.app/api?username=brunodavi&show_icons=true&hide_border=true&theme=gruvbox&bg_color=00000000&title_color=2f80ed&text_color=38bdae&locale=pt-BR">
+<img width="430" src="https://github-readme-stats.vercel.app/api?username=brunodavi&show_icons=true&hide_border=true&theme=gruvbox&bg_color=00000000&title_color=2f80ed&text_color=38bdae&locale=pt-BR">
 </a>
 
 <a href="https://github.com/brunodavi/">
-<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunodavi&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=38bdae&layout=compact&locale=pt-BR">
+<img width="430" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunodavi&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=38bdae&layout=compact&locale=pt-BR">
 </a>
 
 
