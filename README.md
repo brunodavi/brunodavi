@@ -1,10 +1,10 @@
 
 <a href="brunodavi">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=brunodavi&show_icons=true&hide_border&theme=tokyonight&bg_color=00000000&locale=pt-BR">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=brunodavi&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&locale=pt-BR">
 </a>
 
 <a href="brunodavi">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunodavi&show_icons=true&hide_border&theme=tokyonigth&bg_color=00000000&layout=compact&locale=pt-BR">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunodavi&show_icons=true&hide_border=true&theme=tokyonigth&bg_color=00000000&text_color=38bdae&layout=compact&locale=pt-BR">
 </a>
 
 
