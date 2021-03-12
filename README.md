@@ -15,11 +15,11 @@ Meus Contatos:
 <p align="left">
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bruno-davi/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bruno-davi/" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="https://www.linkedin.com/in/bruno-davi/" height="30" width="40" />
 </a>
 
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/brunodaviandrad1" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/brunodaviandrad1" height="30" width="40" />
+<img align="center" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFjiWOgmSVg3g/company-logo_200_200/0?e=2159024400&v=beta&t=6ylX0XZI4-3_aX5nXpNANj-RuurjOTC-WQMo23zZB58" alt="https://www.hackerrank.com/brunodaviandrad1" height="30" width="40" />
 </a>
 
 </p>
