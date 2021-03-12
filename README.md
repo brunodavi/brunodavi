@@ -1,10 +1,10 @@
 
 <p>
-<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=brunodavi&show_icons=true&theme=dracula&locale=pt-BR"/>
+<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=brunodavi&show_icons=true&theme=dark&bg_color=00000000&locale=pt-BR"/>
 </p>
 
 <p>
-<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunodavi&show_icons=true&theme=dracula&layout=compact&locale=pt-BR"/>
+<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunodavi&show_icons=true&theme=dark&bg_color=00000000&layout=compact&locale=pt-BR"/>
 </p>
 
 
