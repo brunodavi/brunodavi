@@ -19,7 +19,7 @@ Meus Contatos:
 </a>
 
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/brunodaviandrad1" target="blank">
-<img align="center" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFjiWOgmSVg3g/company-logo_200_200/0?e=2159024400&v=beta&t=6ylX0XZI4-3_aX5nXpNANj-RuurjOTC-WQMo23zZB58" alt="https://www.hackerrank.com/brunodaviandrad1" height="30" width="40" />
+<img align="center" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFjiWOgmSVg3g/company-logo_200_200/0?e=2159024400&v=beta&t=6ylX0XZI4-3_aX5nXpNANj-RuurjOTC-WQMo23zZB58" alt="https://www.hackerrank.com/brunodaviandrad1" height="30" width="30" />
 </a>
 
 </p>
