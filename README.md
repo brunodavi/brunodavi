@@ -7,10 +7,6 @@
 <img width="425" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunodavi&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=38bdae&layout=compact&locale=pt-BR">
 </a>
 
-- Moro em **São Paulo** 🇧🇷
-- Gosto demais de **Regex** e **Automações**
-- Estou evoluindo a cada dia em front e back end
-
 <h3 align="left">
 Meus Contatos:
 </h3>
