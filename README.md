@@ -86,4 +86,4 @@ Linguagens & Ferramentas:
 <img src="https://komarev.com/ghpvc/?username=brunodavi&label=Visitantes&color=363636&style=flat"/>
 </p>
 
-Muito obrigado ao [@rahuldkjain](https://www.github.com/rahuldkjain) e seu projeto para criar um [portifólio](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+Muito obrigado ao [@rahuldkjain](https://www.github.com/rahuldkjain) e seu projeto para [criar um portifólio](https://rahuldkjain.github.io/gh-profile-readme-generator/)
