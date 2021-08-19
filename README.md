@@ -78,6 +78,10 @@ Linguagens & Ferramentas:
 </p>
 
 
+- Atualmente estudando **React** e **Python3**
+- Moro em **São Paulo** 🇧🇷
+
+
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=brunodavi&label=Visitantes&color=363636&style=flat"/>
 </p>
