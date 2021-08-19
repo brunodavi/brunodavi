@@ -70,6 +70,11 @@ Linguagens & Ferramentas:
 <img src="react.jpg" alt="javascript" width="40" height="40"/>
 </a>
 
+<a href="https://redux.js.org/" target="_blank">
+<img src="redux.png" alt="javascript" width="40" height="40"/>
+</a>
+
+
 </p>
 
 
