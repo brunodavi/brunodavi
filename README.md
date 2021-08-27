@@ -75,7 +75,7 @@ Linguagens & Ferramentas:
 </a>
   
 <a href="https://jestjs.io/" target="_blank">
-<img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+jest-1324451331240398710.png" alt="jest" width="40" height="40"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/jest-3521517-2945020.png" alt="jest" width="40" height="40"/>
 </a>
 
 <a href="testing-library.com/" target="_blank">
