@@ -67,13 +67,20 @@ Linguagens & Ferramentas:
 </a>
 
 <a href="https://pt-br.reactjs.org/" target="_blank">
-<img src="react.jpg" alt="javascript" width="40" height="40"/>
+<img src="react.jpg" alt="react" width="40" height="40"/>
 </a>
 
 <a href="https://redux.js.org/" target="_blank">
-<img src="redux.png" alt="javascript" width="40" height="40"/>
+<img src="redux.png" alt="redux" width="40" height="40"/>
+</a>
+  
+<a href="https://jestjs.io/" target="_blank">
+<img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+jest-1324451331240398710.png" alt="jest" width="40" height="40"/>
 </a>
 
+<a href="testing-library.com/" target="_blank">
+<img src="https://testing-library.com/img/octopus-128x128.png" alt="jest" width="40" height="40"/>
+</a>
 
 </p>
 
