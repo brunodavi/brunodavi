@@ -82,6 +82,10 @@ Linguagens & Ferramentas:
 <img src="https://testing-library.com/img/octopus-128x128.png" alt="jest" width="40" height="40"/>
 </a>
 
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://user-images.githubusercontent.com/48166556/132954035-17021e63-3c2f-41db-9e45-8b4e12c79620.png" alt="mysql" width="40" height="40"/>
+</a>
+
 </p>
 
 
