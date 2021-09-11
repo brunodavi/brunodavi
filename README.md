@@ -85,7 +85,7 @@ Linguagens & Ferramentas:
 </p>
 
 
-- Atualmente estudando **React** e **Python3**
+- Atualmente estudando **MySQL**
 - Moro em **São Paulo** 🇧🇷
 
 
