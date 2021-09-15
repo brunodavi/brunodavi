@@ -11,13 +11,17 @@ Meus Contatos:
 </h3>
 
 <p align="left">
-  
-<a href="https://t.me/brunodavi2000" target="_blank">
-<img align="center" src="https://cdn-sites-images.46graus.com/files/photos/fbfbb823/1ab44fb3-3e97-4983-9aa9-3bf2f3d36822/telegram-256x256.png" alt="telegram" height="30" width="30" />
+
+<a href="https://stackoverflow.com/users/15650696/bruno-davi" target="_blank">
+<img align="center" src="https://basedosdados.org/uploads/group/2020-07-08-180036.693735stackoverflow-512.png" alt="stackoverflow" height="30" width="30" />
 </a>
 
 <a href="https://www.linkedin.com/in/bruno-davi/" target="_blank">
 <img align="center" src="https://user-images.githubusercontent.com/48166556/133486746-321a69f2-c858-4b64-9fc0-313b52877697.png" alt="linkedin" height="30" width="30" />
+</a>
+  
+<a href="https://t.me/brunodavi2000" target="_blank">
+<img align="center" src="https://cdn-sites-images.46graus.com/files/photos/fbfbb823/1ab44fb3-3e97-4983-9aa9-3bf2f3d36822/telegram-256x256.png" alt="telegram" height="30" width="30" />
 </a>
 
 </p>
