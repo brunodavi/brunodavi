@@ -1,3 +1,5 @@
+![linkedin](https://user-images.githubusercontent.com/48166556/133486631-f489dca0-5d5c-4350-84b7-75e6fb9d7fb9.png)
+![linkedin](https://user-images.githubusercontent.com/48166556/133486660-80b1cfd0-484e-4f6a-86cf-6ae9ba286118.png)
 
 <a href="https://github.com/brunodavi/">
 <img width="425" src="https://github-readme-stats.vercel.app/api?username=brunodavi&show_icons=true&hide_border=true&theme=gruvbox&bg_color=00000000&title_color=2f80ed&text_color=38bdae&locale=pt-BR">
@@ -18,7 +20,7 @@ Meus Contatos:
 </a>
 
 <a href="https://www.linkedin.com/in/bruno-davi/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="linkedin" height="30" width="40" />
+<img align="center" src="https://user-images.githubusercontent.com/48166556/133486746-321a69f2-c858-4b64-9fc0-313b52877697.png" alt="linkedin" height="30" width="40" />
 </a>
 
 </p>
