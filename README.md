@@ -93,7 +93,6 @@ Linguagens & Ferramentas:
 
 
 - Atualmente estudando **MySQL**
-- Moro em **São Paulo** 🇧🇷
 
 
 <p align="left">
