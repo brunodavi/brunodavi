@@ -96,7 +96,7 @@ Linguagens & Ferramentas:
 </p>
 
 
-- Atualmente estudando **MySQL**
+- Atualmente estudando **NodeJS**
 
 
 <p align="left">
