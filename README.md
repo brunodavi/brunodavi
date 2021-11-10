@@ -42,7 +42,7 @@ Linguagens & Ferramentas:
 </a>
 
 <a href="https://www.vim.org/" target="_blank">
-<img src="https://cdn.iconscout.com/icon/free/png-256/vim-2-1175074.png" alt="vim" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/1200px-Icon-Vim.svg.png" alt="vim" width="40" height="40"/>
 </a>
   
 <a href="https://nodejs.org" target="_blank">
