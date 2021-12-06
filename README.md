@@ -93,10 +93,14 @@ Linguagens & Ferramentas:
 <img src="https://img.icons8.com/color/480/mongodb.png" alt="mongodb" width="40" height="40"/>
 </a>
 
+<a href="https://www.heroku.com/" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" alt="heroku" width="40" height="40"/>
+</a>
+
 </p>
 
 
-- Atualmente estudando **NodeJS**
+- Atualmente estudando **Deploy**
 
 
 <p align="left">
