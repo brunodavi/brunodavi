@@ -12,10 +12,6 @@ Meus Contatos:
 
 <p align="left">
 
-<a href="https://stackoverflow.com/users/15650696/bruno-davi" target="_blank">
-<img align="center" src="https://basedosdados.org/uploads/group/2020-07-08-180036.693735stackoverflow-512.png" alt="stackoverflow" height="30" width="30" />
-</a>
-
 <a href="https://www.linkedin.com/in/bruno-davi/" target="_blank">
 <img align="center" src="https://user-images.githubusercontent.com/48166556/133486746-321a69f2-c858-4b64-9fc0-313b52877697.png" alt="linkedin" height="30" width="30" />
 </a>
