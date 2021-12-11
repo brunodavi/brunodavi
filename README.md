@@ -78,7 +78,7 @@ Linguagens & Ferramentas:
 </a>
   
 <a href="https://jestjs.io/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/1200px-Icon-Vim.svg.png" alt="jest" width="40" height="40"/>
+<img src="jest.png" alt="jest" width="40" height="40"/>
 </a>
 
 <a href="testing-library.com/" target="_blank">
