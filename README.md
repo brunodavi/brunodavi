@@ -96,7 +96,7 @@ Linguagens & Ferramentas:
 </p>
 
 
-- Atualmente estudando **Deploy**
+- Atualmente estudando **Socket**
 
 
 <p align="left">
