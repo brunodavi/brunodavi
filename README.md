@@ -42,7 +42,7 @@ Linguagens & Ferramentas:
 </a>
 
 <a href="https://www.python.org" target="_blank">
-<img src="https://cdn.pling.com/img//hive/content-pre1/66411-1.png" alt="python" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
 </a>
 
 <a href="https://git-scm.com/" target="_blank">
