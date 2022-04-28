@@ -92,7 +92,7 @@ Linguagens & Ferramentas:
 </p>
 
 
-- Atualmente estudando **Socket**
+- Atualmente estudando **C#**
 
 
 <p align="left">
