@@ -40,6 +40,10 @@ Linguagens & Ferramentas:
 <a href="https://nodejs.org" target="_blank">
 <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1-1174935.png" alt="nodejs" width="40" height="40"/>
 </a>
+  
+<a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
+<img src="https://kmyr.dev/posts/csharp.png" alt="csharp" width="40" height="40"/>
+</a>
 
 <a href="https://www.python.org" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
