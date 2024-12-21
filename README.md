@@ -5,6 +5,10 @@ Me chamo **Bruno Davi**, seja bem vindo
 Sempre gostei de tecnologia e como ela pode tornar as coisas mais fáceis,
 automatizando processos ou criando algo novo, mostrando um mundo de possibilidades...
 
+## Estudos
+- C#
+- CS50
+- Inglês
 
 ## Contato
 
