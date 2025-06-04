@@ -1,32 +1,68 @@
-# 👋 Olá
+<h1 align="center">Hi there 👋, I'm Bruno Davi</h1>
 
-Me chamo **Bruno Davi**, seja bem vindo
+<p align="center">
+  I’m a passionate software developer who loves turning ideas into delightful, real-world products.<br/>
+  My focus is on automation, clean architecture and creating smooth user experiences — whether on mobile, web or desktop.
+</p>
 
-Sempre gostei de tecnologia e como ela pode tornar as coisas mais fáceis,
-automatizando processos ou criando algo novo, mostrando um mundo de possibilidades...
+---
 
-## Estudos
-- Flutter
-- C#
-- Inglês
+## 🧾 About Me
 
-## Contato
+I'm a full stack developer experienced in building scalable applications across mobile, web, and backend systems. I enjoy using technology to automate workflows, solve problems, and bring ideas to life.
 
-<a href="mailto:brunodaviandrade2000@gmail.com">
-  <img width="32" src="https://mail.google.com/favicon.ico" />
-</a>
+In my day-to-day work, I use **Flutter** and **C#** to develop robust applications. I also enjoy building automation tools using **AI APIs like GPT**, leveraging the power of modern AI to improve productivity and create smarter systems.
 
-<a href="https://www.linkedin.com/in/brunodavi">
-  <img width="32" src="https://www.linkedin.com/favicon.ico" />
-</a>
+I'm comfortable working with technologies like **React**, **TypeScript**, **Python**, **Docker**, and **GitHub Actions**, and I follow good testing practices with libraries and CI/CD workflows.
 
+---
 
-## Métricas
+## 📚 Currently Learning
 
-<a href="https://github.com/brunodavi/">
-   <img width="425" src="https://github-readme-stats.vercel.app/api?username=brunodavi&show_icons=true&hide_border=true&theme=gruvbox&bg_color=00000000&title_color=2f80ed&text_color=38bdae&locale=pt-BR" />
-</a>
+* **Flutter & Dart** – building cross-platform mobile apps
+* **C# / .NET** – crafting scalable back-end services
+* **AI Automation** – integrating GPT APIs for smart tools
 
-<a href="https://github.com/brunodavi/">
-   <img width="425" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunodavi&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=38bdae&layout=compact&locale=pt-BR" />
-</a>
+## 🛠 Tech Stack
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge\&logo=aws-lambda\&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge\&logo=azure-devops\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoft-sql-server\&logoColor=white)
+
+</div>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brunodavi&show_icons=true&hide_border=true&theme=gruvbox&bg_color=00000000&title_color=2f80ed&text_color=38bdae" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunodavi&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=38bdae" alt="Top Languages" /><br/>
+  <img src="https://streak-stats.demolab.com?user=brunodavi&theme=gruvbox&hide_border=true&background=FFFFFF00&dates=F8D347&currStreakNum=38bdae&currStreakLabel=2f80ed&sideNums=ffffff&sideLabels=38bdae" alt="GitHub Streak" />
+</div>
+
+## 📫 Get in Touch
+
+<p align="center">
+  <a href="mailto:brunodaviandrade2000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/brunodavi">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+<p align="center"><em>“Code is read more than it is written — write it well.”</em></p>
