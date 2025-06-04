@@ -95,10 +95,7 @@ I'm comfortable working with technologies like **React**, **TypeScript**, **Pyth
   <a href="https://www.linkedin.com/in/brunodavi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://t.me/brunodaviandrade">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://wa.me/5585986989424">
+  <a href="https://wa.me/5511987364471">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
