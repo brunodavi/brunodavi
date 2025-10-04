@@ -1,105 +1,47 @@
-<h1 align="center">Hi there 👋, I'm Bruno Davi</h1>
+# Bruno Davi
 
-<p align="center">
-  I’m a passionate software developer who loves turning ideas into delightful, real-world products.<br/>
-  My focus is on automation, clean architecture and creating smooth user experiences — whether on mobile, web or desktop.
-</p>
+Transformo café em código há 4 anos. Especialista em fazer computadores trabalharem por mim.
 
----
+## O que eu faço (e faço bem)
 
-## 🧾 About Me
+Sou desenvolvedor full stack com foco em automação e IA. Minha filosofia é simples: se algo pode ser automatizado, deveria ser. Trabalho principalmente com **C#/.NET** e **Python** no backend, e **Flutter** quando o negócio é mobile.
 
-I'm a full stack developer experienced in building scalable applications across mobile, web, and backend systems. I enjoy using technology to automate workflows, solve problems, and bring ideas to life.
+**Coisas que já fiz e deram certo:**
 
-In my day-to-day work, I use **Flutter** and **C#** to develop robust applications. I also enjoy building automation tools using **AI APIs like GPT**, leveraging the power of modern AI to improve productivity and create smarter systems.
+Economizei entre 80-90% dos custos de uma aplicação serverless na AWS — basicamente re-arquitetei tudo de execução agendada para sob demanda. O cliente ficou feliz, o bolso dele mais ainda.
 
-I'm comfortable working with technologies like **React**, **TypeScript**, **Python**, **Docker**, and **GitHub Actions**, and I follow good testing practices with libraries and CI/CD workflows.
+Melhorei a performance de um sistema de BI que 50+ pessoas usam todo dia. Resultado: 20% mais rápido e muito mais seguro. Produtividade é dinheiro, e dinheiro todo mundo gosta.
 
----
+Desenvolvi do zero o Maia App, um aplicativo mobile em Flutter para crianças neurodivergentes. Da primeira linha de código até a produção. Foi desafiador e gratificante.
 
-## 📚 Currently Learning
+Criei o AgentIA, um sistema com AWS Lambda e GPT que automatiza seleção de licitações. Porque se tem IA pra fazer, por que fazer na mão?
 
-* **Flutter & Dart** – building cross-platform mobile apps
-* **C# / .NET** – crafting scalable back-end services
-* **AI Automation** – integrating GPT APIs for smart tools
+## Stack (sem badges coloridos)
 
-## 🛠 Tech Stack
+**Backend:** C# · .NET · Python · FastAPI · Node.js · Entity Framework  
+**Frontend:** Flutter · React · Next.js · Vue.js · TypeScript · Tailwind CSS  
+**Mobile:** Flutter · Dart  
+**Banco de dados:** PostgreSQL · MySQL · SQL Server · MongoDB · Oracle  
+**Cloud:** AWS Lambda · AWS S3 · Azure · Docker · Kubernetes  
+**IA & Automação:** GPT APIs · Selenium  
+**Análise de dados:** Pandas · NumPy  
+**Testes:** xUnit · Moq · Testes unitários
 
-### Frontend
+Sigo os princípios de **Clean Code** e **Clean Architecture** porque código legível é código que não vai me fazer sofrer daqui 6 meses. Quando a prioridade é velocidade de entrega, trabalho com **Feature-Driven Development** e **Vertical Slice Architecture** — arquiteturas que permitem entregar features completas rapidamente sem comprometer a qualidade.
 
-<div align="center">
+## Aprendendo agora
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=for-the-badge\&logo=nextdotjs\&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0EA5E9?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+Sempre estudando. No momento:
+- Aprofundando em **Flutter** e **Dart**
+- Arquiteturas escaláveis com **C#/.NET**
+- Integrações mais complexas com **GPT APIs**
+- Inglês (cursando Duolingo + consumindo conteúdo técnico)
 
-</div>
+**Formação:**  
+CS50 (Harvard) · Desenvolvimento Web Full Stack (Trybe)
 
-### Backend
+## Contato
 
-<div align="center">
-
-![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-303030?style=for-the-badge\&logo=express\&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-BF4800?style=for-the-badge\&logo=aws-lambda\&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge\&logo=azure-devops\&logoColor=white)
-
-</div>
-
-### Databases
-
-<div align="center">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoft-sql-server\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-
-</div>
-
-### DevOps & Tools
-
-<div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-1572B6?style=for-the-badge\&logo=docker\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF5722?style=for-the-badge\&logo=postman\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-9C27B0?style=for-the-badge\&logo=figma\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-
-</div>
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunodavi&show_icons=true&hide_border=true&theme=gruvbox&bg_color=00000000&title_color=2f80ed&text_color=38bdae" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunodavi&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=38bdae" alt="Top Languages" /><br/>
-  <img src="https://streak-stats.demolab.com?user=brunodavi&theme=gruvbox&hide_border=true&background=FFFFFF00&dates=F8D347&currStreakNum=38bdae&currStreakLabel=2f80ed&sideNums=ffffff&sideLabels=38bdae" alt="GitHub Streak" />
-</div>
-
-## 📫 Get in Touch
-
-<p align="center">
-  <a href="mailto:brunodaviandrade2000@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/brunodavi">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://wa.me/5511987364471">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-</p>
-
----
-
-<p align="center"><em>“Code is read more than it is written — write it well.”</em></p>
+📧 [brunodaviandrade2000@gmail.com](mailto:brunodaviandrade2000@gmail.com)  
+💼 [linkedin.com/in/brunodavi](https://www.linkedin.com/in/brunodavi)  
+💬 [WhatsApp](https://wa.me/5511987364471)
