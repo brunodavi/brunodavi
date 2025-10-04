@@ -16,7 +16,7 @@ Desenvolvi do zero o Maia App, um aplicativo mobile em Flutter para crianças ne
 
 Criei o AgentIA, um sistema com AWS Lambda e GPT que automatiza seleção de licitações. Porque se tem IA pra fazer, por que fazer na mão?
 
-## Stack (sem badges coloridos)
+## Stacks
 
 **Backend:** C# · .NET · Python · FastAPI · Node.js · Entity Framework  
 **Frontend:** Flutter · React · Next.js · Vue.js · TypeScript · Tailwind CSS  
