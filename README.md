@@ -15,47 +15,19 @@ Aqui estão alguns desafios que transformei em soluções de sucesso:
 
 ## 🛠️ Tech Stack & Ferramentas
 
-Estas são as tecnologias com as quais eu construo soluções:
+Estas são as principais tecnologias que utilizo para construir soluções:
 
-### Backend
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="20" height="20"/> **C#**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" alt=".NET" width="20" height="20"/> **.NET**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="20" height="20"/> **Python**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="20" height="20"/> **FastAPI**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20" height="20"/> **Node.js**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="20" height="20"/> **Express**
+**Backend:** C# • .NET • Python • FastAPI • Node.js • Express
 
-### Frontend
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="20" height="20"/> **React**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="20" height="20"/> **Next.js**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="20" height="20"/> **Vue.js**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="20" height="20"/> **TypeScript**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="20" height="20"/> **Tailwind CSS**
+**Frontend:** React • Next.js • Vue.js • TypeScript • Tailwind CSS
 
-### Mobile
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" width="20" height="20"/> **Flutter**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="20" height="20"/> **Dart**
+**Mobile:** Flutter • Dart
 
-### Banco de Dados
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="20" height="20"/> **PostgreSQL**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="20" height="20"/> **MySQL**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="20" height="20"/> **SQL Server**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="20" height="20"/> **MongoDB**
+**Banco de Dados:** PostgreSQL • MySQL • SQL Server • MongoDB
 
-### Cloud & DevOps
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="20" height="20"/> **AWS**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" width="20" height="20"/> **Azure**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="20" height="20"/> **Docker**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="20" height="20"/> **GitHub Actions**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="20" height="20"/> **Azure DevOps**
+**Cloud & DevOps:** AWS • Azure • Docker • GitHub Actions • Azure DevOps
 
-### IA, Testes & Análise de Dados
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/openai.svg" alt="OpenAI" width="20" height="20"/> **OpenAI/GPT**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" width="20" height="20"/> **Selenium**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="20" height="20"/> **Pandas**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" width="20" height="20"/> **NumPy**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" alt="Pytest" width="20" height="20"/> **Pytest**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="Jest" width="20" height="20"/> **Jest**
+**IA & Testes:** OpenAI/GPT • Selenium • Pandas • NumPy • Pytest • Jest
 
 ## 🏛️ Arquitetura & Boas Práticas
 
@@ -65,29 +37,22 @@ Para cenários que exigem entregas rápidas e iterativas, adoto abordagens como 
 
 ## 📚 Aprendizado Contínuo
 
-Estou sempre me atualizando para acompanhar as melhores práticas do mercado. Meus focos atuais são:
--   **Mobile:** Aprofundamento em **Flutter** e **Dart** para criar interfaces ainda mais fluidas e performáticas.
--   **Backend:** Estudo de arquiteturas escaláveis e de alta performance com **C#/.NET**.
--   **IA:** Integrações avançadas com **GPT APIs** para criar soluções mais inteligentes.
--   **Idiomas:** Inglês (cursando Duolingo e consumindo conteúdo técnico diariamente).
+Estou sempre me atualizando para acompanhar as melhores práticas do mercado. Meus focos atuais:
 
-### Formação Relevante:
--   **CS50's Introduction to Computer Science** - Harvard University
--   **Desenvolvimento Web Full Stack** - Trybe
+- **Mobile:** Aprofundamento em Flutter e Dart para criar interfaces ainda mais fluidas e performáticas
+- **Backend:** Estudo de arquiteturas escaláveis e de alta performance com C#/.NET
+- **IA:** Integrações avançadas com GPT APIs para criar soluções mais inteligentes
+- **Idiomas:** Inglês (cursando Duolingo e consumindo conteúdo técnico diariamente)
+
+**Formação:**
+- CS50's Introduction to Computer Science - Harvard University
+- Desenvolvimento Web Full Stack - Trybe
 
 ## 📫 Vamos conversar?
 
-Se você tem um projeto em mente, uma oportunidade de trabalho ou apenas quer trocar ideias sobre tecnologia, me chame em um dos canais abaixo.
+Se você tem um projeto em mente, uma oportunidade de trabalho ou apenas quer trocar ideias sobre tecnologia, me chame em um dos canais abaixo:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunodavi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunodaviandrade2000@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511987364471)
-
----
-
-<div align="center">
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=brunodavi&show_icons=true&hide_border=true&theme=gruvbox&bg_color=00000000&title_color=2f8o8ed&text_color=38bdae&locale=pt-BR)](https://github.com/brunodavi/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=brunodavi&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=38bdae&layout=compact&locale=pt-BR)](https://github.com/brunodavi/)
-
-</div>
+- **LinkedIn:** [linkedin.com/in/brunodavi](https://www.linkedin.com/in/brunodavi)
+- **Email:** [brunodaviandrade2000@gmail.com](mailto:brunodaviandrade2000@gmail.com)
+- **WhatsApp:** [+55 11 98736-4471](https://wa.me/5511987364471)
+- **GitHub:** [github.com/brunodavi](https://github.com/brunodavi)
