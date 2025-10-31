@@ -41,7 +41,7 @@ Estou sempre me atualizando para acompanhar as melhores práticas do mercado. Me
 - **Mobile:** Aprofundamento em Flutter e Dart para criar interfaces ainda mais fluidas e performáticas
 - **Backend:** Estudo de arquiteturas escaláveis e de alta performance com C#/.NET
 - **IA:** Integrações avançadas com GPT APIs para criar soluções mais inteligentes
-- **Idiomas:** Inglês (cursando Duolingo e consumindo conteúdo técnico diariamente)
+- **Idiomas:** Inglês Técnico
 
 **Formação:**
 - CS50's Introduction to Computer Science - Harvard University
