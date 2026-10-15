@@ -1,57 +1,33 @@
-# Olá, eu sou o Bruno Davi 👋
+Olá, eu sou o Bruno Davi 👋
 
-Desenvolvedor Full Stack com 4 anos de experiência, especialista em transformar café em código e criar soluções eficientes que automatizam processos. Minha filosofia é simples: **se uma tarefa é repetitiva, ela deve ser automatizada**.
+Desenvolvedor de Software com experiência em backend com C#/.NET, APIs, microsserviços, testes automatizados e automação de processos. Também tenho experiência com desenvolvimento Full Stack e mobile.
 
-Com foco em **C#/.NET** e **Python** para o backend, e **Flutter** para o desenvolvimento mobile, eu construo sistemas que não apenas funcionam, mas que também são escaláveis, rápidos e inteligentes.
+🚀 Projetos e Resultados
 
-## 🚀 Alguns Projetos e Resultados
+- Otimização de custos na AWS: migração de uma aplicação executada continuamente para uma arquitetura serverless sob demanda, reduzindo a necessidade de recursos ativos permanentemente e o custo operacional.
+- Performance e segurança em BI: melhoria de 20% na velocidade de um sistema utilizado diariamente por mais de 50 pessoas.
+- Maia App: desenvolvimento de um aplicativo Flutter para crianças neurodivergentes, desde a implementação até a publicação nas lojas.
 
-Aqui estão alguns desafios que transformei em soluções de sucesso:
+🛠️ Tecnologias
 
--   **Otimização de Custos em Nuvem (AWS):** Reduzi entre **80-90%** dos custos de uma aplicação serverless ao re-arquitetar a solução de execuções agendadas para um modelo sob demanda. Menos custos para o cliente, mais eficiência para o sistema.
--   **Melhoria de Performance em BI:** Aumentei em **20%** a velocidade de um sistema de Business Intelligence utilizado diariamente por mais de 50 pessoas, além de fortalecer sua segurança. Mais produtividade, decisões mais rápidas.
--   **Desenvolvimento Mobile (Maia App):** Criei do zero o **Maia App**, um aplicativo em Flutter para crianças neurodivergentes. Fui responsável por todo o ciclo de vida do projeto, da primeira linha de código à publicação nas lojas.
+- Backend: C#, .NET, Python, FastAPI, Node.js
+- Frontend: TypeScript, JavaScript, Vue.js, React, Next.js
+- Mobile: Flutter, Dart
+- Bancos de dados: SQL Server, PostgreSQL, MySQL, MongoDB
+- Cloud & DevOps: AWS, Azure, Docker, GitHub Actions, Azure DevOps
+- Testes & Automação: testes unitários e de integração, Selenium, Pytest, Jest
 
-## 🛠️ Tech Stack & Ferramentas
+🏗️ Práticas de Desenvolvimento
 
-Estas são as principais tecnologias que utilizo para construir soluções:
+Experiência com Clean Architecture, princípios de Clean Code, desenvolvimento orientado a funcionalidades, revisão de código e pipelines de CI/CD.
 
-**Backend:** C# • .NET • Python • FastAPI • Node.js • Express
+📚 Formação
 
-**Frontend:** React • Next.js • Vue.js • TypeScript • Tailwind CSS
+- CS50's Introduction to Computer Science — Harvard University
+- Desenvolvimento Web Full Stack — Trybe
 
-**Mobile:** Flutter • Dart
+📫 Contato
 
-**Banco de Dados:** PostgreSQL • MySQL • SQL Server • MongoDB
-
-**Cloud & DevOps:** AWS • Azure • Docker • GitHub Actions • Azure DevOps
-
-**IA & Testes:** OpenAI/GPT • Selenium • Pandas • NumPy • Pytest • Jest
-
-## 🏛️ Arquitetura & Boas Práticas
-
-Acredito que um bom código é aquele que é fácil de ler, manter e escalar. Por isso, aplico os princípios de **Clean Code** e **Clean Architecture** como base em meus projetos.
-
-Para cenários que exigem entregas rápidas e iterativas, adoto abordagens como **Feature-Driven Development** e **Vertical Slice Architecture**, que permitem desenvolver e entregar funcionalidades completas de forma ágil e organizada.
-
-## 📚 Aprendizado Contínuo
-
-Estou sempre me atualizando para acompanhar as melhores práticas do mercado. Meus focos atuais:
-
-- **Mobile:** Aprofundamento em Flutter e Dart para criar interfaces ainda mais fluidas e performáticas
-- **Backend:** Estudo de arquiteturas escaláveis e de alta performance com C#/.NET
-- **IA:** Integrações avançadas com GPT APIs para criar soluções mais inteligentes
-- **Idiomas:** Inglês Técnico
-
-**Formação:**
-- CS50's Introduction to Computer Science - Harvard University
-- Desenvolvimento Web Full Stack - Trybe
-
-## 📫 Vamos conversar?
-
-Se você tem um projeto em mente, uma oportunidade de trabalho ou apenas quer trocar ideias sobre tecnologia, me chame em um dos canais abaixo:
-
-- **LinkedIn:** [linkedin.com/in/brunodavi](https://www.linkedin.com/in/brunodavi)
-- **Email:** [brunodaviandrade2000@gmail.com](mailto:brunodaviandrade2000@gmail.com)
-- **WhatsApp:** [+55 11 98736-4471](https://wa.me/5511987364471)
-- **GitHub:** [github.com/brunodavi](https://github.com/brunodavi)
+- LinkedIn: "linkedin.com/in/brunodavi" (https://www.linkedin.com/in/brunodavi)
+- Email: "brunodaviandrade2000@gmail.com" (mailto:brunodaviandrade2000@gmail.com)
+- GitHub: "github.com/brunodavi" (https://github.com/brunodavi)
