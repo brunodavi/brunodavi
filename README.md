@@ -28,6 +28,6 @@ Experiência com Clean Architecture, princípios de Clean Code, desenvolvimento 
 
 ## 📫 Contato
 
-- LinkedIn: "linkedin.com/in/brunodavi" (https://www.linkedin.com/in/brunodavi)
-- Email: "brunodaviandrade2000@gmail.com" (mailto:brunodaviandrade2000@gmail.com)
-- GitHub: "github.com/brunodavi" (https://github.com/brunodavi)
+- LinkedIn: [linkedin.com/in/brunodavi](https://www.linkedin.com/in/brunodavi)
+- Email: [brunodaviandrade2000@gmail.com](mailto:brunodaviandrade2000@gmail.com)
+- GitHub: [github.com/brunodavi](https://github.com/brunodavi)
